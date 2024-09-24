@@ -1,0 +1,8 @@
+C:\Users\Omar\source\repos\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\Omar\source\repos\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\Omar\source\repos\ClassLibrary3\obj\Debug\QS Automator.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\ClassLibrary3\obj\Debug\ClassLibrary3.myForm.resources
+C:\Users\Omar\source\repos\ClassLibrary3\obj\Debug\QS Automator.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\ClassLibrary3\obj\Debug\QS Automator.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\Omar\source\repos\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
